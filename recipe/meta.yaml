@@ -29,9 +29,9 @@ test:
 
 about:
   home: https://pypi.org/project/hurry.filesize/
-  license: ZPL 2.1
+  license: BSD-3-Clause
   license_file: LICENSE.txt
-  license_family: OTHER
+  license_family: BSD
   summary: Python library for human readable file sizes (or anything sized in bytes)
 
 extra:
